@@ -1,0 +1,5 @@
+{
+  "name": "claude-themes",
+  "owner": { "name": "0xAvia" },
+  "plugins": [{ "name": "starry-night", "source": "./" }]
+}
