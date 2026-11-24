@@ -15,8 +15,6 @@ The themes draw in the Claude desktop and mobile apps; the terminal shows no the
 
 ## Install
 
-This repository is private: you need read access to it on GitHub, and your computer needs a git credential for github.com (an SSH key, or `gh auth login` then `gh auth setup-git`). The install never asks for one.
-
 At the prompt of a terminal session:
 
 ```
